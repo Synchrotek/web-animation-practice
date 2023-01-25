@@ -30,7 +30,7 @@ a {
     transition: 0.5s;
 }
 
-a:hover {
+a:hover::before {
     letter-spacing: 0.25em;
     background: var(--clr);
     color: var(--clr);
