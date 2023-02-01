@@ -30,7 +30,7 @@ a {
     transition: 0.5s;
 }
 
-a:after{}
+a:
 
 a:hover {
     letter-spacing: 0.25em;
