@@ -17,6 +17,10 @@ body {
     background: #27282c;
 }
 
+h1 {
+    background-color: #fff; 
+}
+
 a {
     position: relative;
     background: #444;
