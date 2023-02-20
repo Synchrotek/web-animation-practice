@@ -1,2 +1,2 @@
 # web-animation-practice
-This is a provate animation
+This is a good animation by css
