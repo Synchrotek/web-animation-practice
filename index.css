@@ -89,4 +89,6 @@ a:hover i::after {
 }
 
 
-.container{}
+.container{
+    background-color: #fff;
+}
