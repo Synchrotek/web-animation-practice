@@ -33,7 +33,6 @@ a {
 a:hover {
     letter-spacing: 0.25em;
     background: var(--clr);
-    .container{}
     color: var(--clr);
     box-shadow: 0 0 2.188rem var(--clr);
 }
@@ -88,3 +87,6 @@ a:hover i::after {
     width: 1.25rem;
     left: 80%;
 }
+
+
+.container{}
