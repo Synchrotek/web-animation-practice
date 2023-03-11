@@ -46,6 +46,7 @@ a::before {
 
 a span {
     position: relative;
+    width: 1.25rem;
     z-index: 1;
 }
 
