@@ -79,7 +79,6 @@ a i::after {
 }
 
 a:hover i::before {
-    width: 1.25rem;
     right: 76%;
 }
 
