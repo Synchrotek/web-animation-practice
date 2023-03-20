@@ -89,6 +89,6 @@ a:hover i::after {
 }
 
 
-.containerMid{
-    background-color: #fff;
+.container{
+    background-color: rgb(0,0,0);
 }
