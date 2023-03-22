@@ -18,7 +18,7 @@ body {
 }
 
 a {
-    position: absolute;
+    position: relative;
     background: #444;
     color: #fff;
     text-decoration: none;
