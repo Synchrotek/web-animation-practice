@@ -78,7 +78,6 @@ a i::after {
     transform: translateX(-50%);
     transition: 0.5s;
 }
-
 a:hover i::before {
     right: 76%;
 }
