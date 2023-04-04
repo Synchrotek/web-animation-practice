@@ -68,7 +68,7 @@ a i::before {
 }
 
 a i::after {
-    content: '_____';
+    content: '';
     position: absolute;
     inset: auto auto -0.156rem 20%;
     width: 1rem;
