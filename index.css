@@ -67,7 +67,7 @@ a i::before {
     transition: 0.5s;
 }
 
-a i::after:hover {
+a i::after {
     content: '';
     position: absolute;
     inset: auto auto -0.156rem 20%;
