@@ -1,1 +1,1 @@
-# web-animation-practice fo daily routine
+# web-animation-practice for daily routine
