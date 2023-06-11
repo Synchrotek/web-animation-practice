@@ -65,7 +65,7 @@ a i::before {
     border: 0.125rem solid var(--clr);
     background: #27282c;
     transition: 0.5s;
-}
+} 
 
 a i::after {
     content: '';
